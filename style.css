@@ -51,3 +51,28 @@ div {
         opacity: 1;
     }
 }
+
+
+
+/* footer style   */
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #e0f7fa;
+    
+    font-size: 1.2rem;
+    font-weight: bold;
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    border-top: 2px solid #00796b;
+}
+
+#creator-name {
+    color: #00796b;
+    font-size: 1.2rem;
+    font-family: 'Arial', sans-serif;
+    animation: fadeIn 1.5s ease-in-out infinite alternate;
+}
+
