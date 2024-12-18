@@ -73,6 +73,6 @@ footer {
     color: #00796b;
     font-size: 1.2rem;
     font-family: 'Arial', sans-serif;
-    animation: fadeIn 1.5s ease-in-out infinite alternate;
+    animation: fadeIn 2s ease-in-out infinite alternate;
 }
 
